@@ -1,4 +1,4 @@
 [submodule "submodule_test_sub"]
 	path = submodule_test_sub
 	url = https://github.com/Vilkelis/submodule_test_sub.git
-	branch = stage
+	branch = master
